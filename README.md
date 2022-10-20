@@ -1,4 +1,26 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I’m Brando Chiminelli</h1>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/brando-chiminelli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Bralli99">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:brando.chiminelli99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> 
+  </a>&nbsp;&nbsp;
+  <!--
+  <a href="https://davideguidolin.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
+  </a> 
+  -->
+</p>
+
+* I have a bachelor's degree in Information Engineering and Business Organization🎓
+* I'm attending the EIT Digital Double Master’s Degree📙
+* I'm specialising in Cloud and Network Infrastructure👨🏼‍💻
 
 <!--
 **Bralli99/Bralli99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
