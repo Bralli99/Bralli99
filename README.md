@@ -14,15 +14,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
   </a> 
   </a>&nbsp;&nbsp;
-  <!--
-  <a href="https://davideguidolin.com/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
-  </a> 
-  -->
 </p>
 
 * I have a bachelor's degree in Information Engineering and Business Organization🎓
-* I'm attending the EIT Digital Double Master’s Degree📙
+* I'm attending the EIT Digital Double Master’s Degree🇮🇹🇸🇪
 * I'm specialising in Cloud and Network Infrastructure👨🏼‍💻
 
 <!--
