@@ -9,6 +9,9 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:brando.chiminelli99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/brando_chiminelli/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
   </a> 
   </a>&nbsp;&nbsp;
   <!--
