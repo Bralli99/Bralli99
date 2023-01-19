@@ -21,5 +21,5 @@
 <h3>About me</h3>
 
 * Bachelor's Degree in **Information Engineering and Business Organization** at the University of Trento 🎓
-* EIT Digital Master's student at the KTH Royal Institute of Technology 🇸🇪
-* I'm specialising in Cloud and Network Infrastructure 👨🏼‍💻
+* **EIT Digital** Master's student at the **KTH Royal Institute of Technology** 🇸🇪
+* I'm specialising in **Cloud and Network Infrastructure** 👨🏼‍💻
