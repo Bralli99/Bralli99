@@ -13,6 +13,13 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bralli99&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bralli99&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact&langs_count=6" height=200></a>
+</p>
+
+<h3>About me</h3>
+
 * I have a bachelor's degree in Information Engineering and Business Organization🎓
 * I'm attending the EIT Digital Double Master’s Degree🇮🇹🇸🇪
 * I'm specialising in Cloud and Network Infrastructure👨🏼‍💻
